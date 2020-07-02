@@ -1,8 +1,16 @@
-public class Main {
-    public static void main(String args[]) {
-        System.out.println("yesss ذشذغ");
+import java.io.File;
 
-        System.out.println("by");
+public class Main {
+
+
+    public static void main(String args[]){
+        File file=new File("input");
+
+        InitialTextProccesor textProccesor=new InitialTextProccesor(file);
+
+        textProccesor.start();
+
 
     }
+
 }
