@@ -6,5 +6,6 @@ public class IdealDiode extends Element {
         name = info[0];
         node1 = info[1];
         node2 = info[2];
+        //donothing
     }
 }
