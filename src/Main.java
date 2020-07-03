@@ -8,6 +8,7 @@ public class Main {
         System.out.println("giiiiiiit");
         System.out.println("salam");
         System.out.println("by");
+        System.out.println("hierfun");
 
     }
 	}
