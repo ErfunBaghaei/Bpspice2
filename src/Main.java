@@ -6,8 +6,9 @@ public class Main {
     public static void main(String args[]) {
         System.out.println("yesss ذشذغ");
         System.out.println("giiiiiiit");
-        System.out.println("salam");
+        System.out.println("salammmmm");
         System.out.println("by");
+
 
     }
 	}
